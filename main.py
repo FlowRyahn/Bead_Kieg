@@ -63,7 +63,7 @@ Dolg = Dolgozo("Gimer", "Dani", 300000)
 TanFel = TanarFelugyelo("Nagy", "Bence", 460000, [Tan])
 Tak = Takarito("Kiss", "Korinna", 270000, "3. Emelet")
 ExtrTan = Tanar("Dr.", "Heller", "Szilvia", 385000, "Exponencializmus Elmélet")
-
+'''
 TanFel.lista_kiiras()
 TanFel.tan_hozzaadas(ExtrTan)
 TanFel.lista_kiiras()
@@ -89,6 +89,6 @@ print(TanFel.email)
 print(Tak.emelet)
 print(Tak.email)
 print(Tan.email)
-
+'''
 
 
