@@ -53,8 +53,8 @@ class TanarFelugyelo(Dolgozo):
 
 
 
-#kipróbálható dolgok listája:
-#'''
+#kipróbálható dolgok listája (a ''' kitörlése után):
+'''
 Tan = Tanar('Dr.', 'Kerekes', 'Klára', 370000, 'Linearis Algebra XIV.')
 Dolg = Dolgozo("Gábor", "Áron", 300000)
 TanFel = TanarFelugyelo("Nagy", "Gábor", 460000, [Tan])
@@ -74,9 +74,4 @@ print(TanFel.fizetes)
 print(Tak.TeljNev())
 print(Tak.email)
 print(Tan.email)
-
-
-
-
-
-#'''
+'''
